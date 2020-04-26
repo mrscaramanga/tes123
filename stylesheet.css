@@ -1,4 +1,7 @@
-h1 {
+.heading h1{
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: #5f5d60;
   text-align:center;
   text-size:100px;
 }
